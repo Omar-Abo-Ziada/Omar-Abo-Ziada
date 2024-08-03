@@ -1,37 +1,51 @@
 # Hi there, I'm Omar Abo Ziada! 👋
 
-I'm a passionate software developer and a graduate of the ITI 9-month Professional Web Development and BI track. I enjoy working on a variety of projects and solving complex problems. 
+I'm a passionate software developer and a graduate of the ITI 9-month Professional Web Development and BI track. I enjoy working on a variety of projects and solving complex problems.
 
 ## 🚀 About Me
 
 - 🌍 Based in [Egypt]
-- 💼 Currently working on [Shoghlana : Freelancing platform]
-- 🌱 I’m currently learning [Design Patterns , DDD , ERP]
-- 📚 I’m looking to collaborate on [ASP.NET Core]
-- 🎓 Graduate of ITI with hands-on experience in [C#
- LINQ
- Entity Framework Core
- ADO.Net
- Microsoft SQL Server
- ASP.NET Core MVC
- ASP.NET Web API
- ASP.NET Signal R
-OOP
- Data Structures & Algorithms
- Source Control ( git & GitHub )
- Unite Testing
- Agile
- IIS
- MS-Azure
- SOLID Principles
- Design Patterns]
-- 🎯 My goal is to [Career Goal or Aspiration]
+- 💼 Currently working on [Shoghlana: Freelancing platform]
+- 🌱 I’m currently learning:
+  - Design Patterns
+  - Domain-Driven Design (DDD)
+  - ERP
+- 📚 I’m looking to collaborate on [ASP.NET Core Projects]
+- 🎓 Graduate of ITI with hands-on experience in:
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
-- **Languages:** C#, JavaScript, TypeScript, SQL
-- **Frameworks/Libraries:** Angular, .NET Core, SignalR, Entity Framework
-- **Tools:** Git, Azure, Visual Studio, VS Code
+### Backend Skills
+- C#
+- LINQ
+- Entity Framework Core
+- ADO.NET
+- Microsoft SQL Server
+- ASP.NET Core MVC
+- ASP.NET Web API
+- ASP.NET SignalR
+
+### Frontend Skills
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- WPF
+- TypeScript
+- Angular
+- ASP.NET Core Blazor
+
+### Other Technical Skills
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Source Control (Git & GitHub)
+- Unit Testing
+- Agile
+- IIS
+- Microsoft Azure
+- SOLID Principles
+- Design Patterns
 
 ## 🌟 Projects
 
