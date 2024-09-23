@@ -5,11 +5,12 @@ I'm a passionate software developer and a graduate of the ITI 9-month Profession
 ## 🚀 About Me
 
 - 🌍 Based in [Egypt]
-- 💼 Currently working on [Shoghlana: Freelancing platform]
+- 💼 Currently working at Initium Solutions Company .
 - 🌱 I’m currently learning:
   - Design Patterns
   - Domain-Driven Design (DDD)
   - ERP
+  - CRM
 - 📚 I’m looking to collaborate on [ASP.NET Core Projects]
 - 🎓 Graduate of ITI with hands-on experience in:
 
@@ -24,6 +25,7 @@ I'm a passionate software developer and a graduate of the ITI 9-month Profession
 - ASP.NET Core MVC
 - ASP.NET Web API
 - ASP.NET SignalR
+- CRM | Microsoft Dynamics 365
 
 ### Frontend Skills
 - HTML5
